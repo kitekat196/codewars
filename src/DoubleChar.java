@@ -11,7 +11,6 @@ public class DoubleChar {
             newString = newString + buff + "" + buff;
         }
         return newString;
-
     }
 }
 //str.replaceAll(".", "$0$0");
