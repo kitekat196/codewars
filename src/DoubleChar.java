@@ -8,7 +8,7 @@ public class DoubleChar {
         String newString = "";
         for (int i = 0; i < str.length(); i++) {
             char buff = str.charAt(i);
-            newString = newString + buff + "" + buff;
+            newString = newString + buff + buff;
         }
         return newString;
     }
