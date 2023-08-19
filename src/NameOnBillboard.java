@@ -7,3 +7,4 @@ public class NameOnBillboard {
         return count;
     }
 }
+//return name.repeat(price).length();
